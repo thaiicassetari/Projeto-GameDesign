@@ -31,7 +31,6 @@ Cleber Ribeiro
 [Ricardo Pardal](https://github.com/imoralman)
 [Romildo A. Lima Jr.](https://github.com/romildoalimajr)
 [Thaiane Cassetari](https://github.com/thaiicassetari)
-- <a href="https://github.com/thaiicassetari" target="_blank">Thaiane Cassetari</a>
 
 ### 🛠️ Tecnologias Utilizadas
 
