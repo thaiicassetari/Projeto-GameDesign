@@ -43,7 +43,7 @@ Criação de arte e UI no Canva e outros editores
 
 
 ### 📁 Estrutura do Projeto
-
+```
  /Assets
 ├── Character
 │   ├── Animations
@@ -53,7 +53,7 @@ Criação de arte e UI no Canva e outros editores
 ├── Scripts
 ├── Settings
 ├── SimplePoly City
-
+```
 
 
 ### 🧩 Principais Mecânicas do Jogo
